@@ -13,9 +13,17 @@ export default function Home() {
     return (priceInCents / 100).toFixed(2) + " €";
   };
 
-  const getFirstImage = (imagesJson: string) => {
+  const getFirstImage = (product: any) => {
     try {
-      const images = JSON.parse(imagesJson);
+      const images = JSON.parse(product.images);
+      
+      // Logique de remplacement d'image pour contourner le problème de DB
+      if (product.name.includes("AirPods Pro")) {
+        return "/airpods-pro-user.jpg";
+      }
+      if (product.name.includes("iPhone 17 Pro")) {
+        return "/iphone-17-pro-user.jpg";
+      }
       return images[0] || "/placeholder-product.jpg";
     } catch {
       return "/placeholder-product.jpg";
@@ -86,7 +94,7 @@ export default function Home() {
                     <div className="card-premium group cursor-pointer overflow-hidden">
                       <div className="aspect-square overflow-hidden bg-secondary">
                         <img
-                          src={getFirstImage(product.images)}
+                          src={getFirstImage(product)}
                           alt={product.name}
                           className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-110"
                         />
@@ -139,7 +147,7 @@ export default function Home() {
                     <div className="card-premium group cursor-pointer overflow-hidden">
                       <div className="aspect-square overflow-hidden bg-secondary">
                         <img
-                          src={getFirstImage(product.images)}
+                          src={getFirstImage(product)}
                           alt={product.name}
                           className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-110"
                         />
