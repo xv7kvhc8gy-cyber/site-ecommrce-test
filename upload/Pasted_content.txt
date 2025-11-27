@@ -1,0 +1,119 @@
+
+Prompt principal :
+
+Crée un site e-commerce complet, professionnel et moderne, avec une charte graphique noire premium (noir profond, gris sombre, blanc minimaliste). Le style doit être élégant, épuré et orienté luxe.
+
+Le site doit inclure :
+	•	Une page d’accueil premium (hero banner, texte impactant, bouton d’achat, nouveautés).
+	•	Un catalogue de produits avec filtres, images HD et présentation professionnelle.
+	•	Une fiche produit détaillée (photos multiples, prix, description, bouton “Ajouter au panier”).
+	•	Un système de paiement intégré : carte bancaire, PayPal, et Stripe.
+	•	Un panier simplifié + checkout fluide en une seule page.
+	•	Une section compte client (profil, commandes, adresses).
+	•	Un design responsive mobile/tablette/PC.
+	•	Une navigation claire, minimaliste et intuitive.
+	•	Un style dark mode premium : boutons lumineux, texte contrasté, icônes fines.
+
+Crée le site avec un rendu professionnel, rapide, optimisé SEO et orienté conversion.
+
+⸻
+
+✅ 2. Prompt Page d’Accueil
+
+Crée une page d’accueil élégante sur theme noir.
+
+Elements demandés :
+	•	Hero section : grand visuel sombre avec lumière douce, texte en blanc minimaliste.
+	•	Titre : “Découvrez l’Excellence – Boutique Premium”
+	•	Sous-texte : “Des produits de qualité, un design unique, une expérience d’achat fluide.”
+	•	Bouton CTA : “Acheter maintenant” (lumineux).
+	•	Section “Nouveautés” avec 4 produits.
+	•	Section “Produits populaires”.
+	•	Footer professionnel : contact, SAV, réseaux sociaux, CGV.
+
+Style : moderne, luxueux, sobre.
+
+⸻
+
+✅ 3. Prompt Catalogue / Boutique
+
+Crée une page Boutique avec fond noir et grille moderne.
+
+Inclure :
+	•	Filtres (prix, catégorie, popularité).
+	•	Cartes produits minimalistes :
+	•	Image HD
+	•	Titre
+	•	Prix
+	•	Bouton “Voir le produit”
+
+Style : sobre, contrasté, lisible.
+
+⸻
+
+✅ 4. Prompt Fiche Produit
+
+Crée une fiche produit moderne sur thème noir.
+
+Inclure :
+	•	Galerie d’images HD
+	•	Titre du produit
+	•	Prix
+	•	Description détaillée
+	•	Bouton “Ajouter au panier” lumineux
+	•	Avis clients
+
+Design premium, lisible, avec espace.
+
+⸻
+
+✅ 5. Prompt Panier + Paiement
+
+Crée une page de paiement professionnelle, simple et rapide.
+
+Inclure :
+	•	Récapitulatif des produits
+	•	Prix total
+	•	Champs : nom, adresse, email
+	•	Paiement sécurisé (carte, PayPal, Stripe)
+	•	Bouton final : “Payer maintenant”
+
+Style : minimaliste, sombre, clair, orienté conversion.
+
+⸻
+
+✅ 6. Prompt Espace Client
+
+Crée un espace client moderne.
+
+Inclure :
+	•	Infos personnelles
+	•	Historique des commandes
+	•	Suivi de livraison
+	•	Adresses
+
+Style : sombre élégance, lecture simple.
+
+⸻
+
+✅ 7. Prompt Design Global (à coller dans Manus pour uniformiser)
+
+Applique une charte graphique sombre haut de gamme.
+
+Couleurs :
+	•	Fond : #000000
+	•	Gris sombre : #111111 / #1A1A1A
+	•	Blanc : #FFFFFF
+	•	Boutons lumineux : #E5E5E5 ou halo néon blanc
+
+Police :
+	•	Montserrat, Poppins ou Inter
+
+Style :
+	•	Minimaliste
+	•	Espacements précis
+	•	Icônes fines
+	•	Légères animations de survol
+	•	Ombres douces et subtiles
+
+L’ensemble doit donner un effet premium, propre et professionnel.
