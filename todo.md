@@ -52,3 +52,12 @@
 - [x] Vérification responsive mobile/tablette/PC
 - [x] Optimisation SEO
 - [x] Tests de performance
+
+## Nouvelles demandes utilisateur
+
+- [x] Ajouter une catégorie "Apple"
+- [x] Ajouter iPhone 17 (plusieurs variantes)
+- [x] Ajouter iPhone 16 (plusieurs variantes)
+- [x] Ajouter iPhone 15 (plusieurs variantes)
+- [x] Ajouter AirPods (plusieurs modèles)
+- [x] Ajouter iPad (plusieurs modèles)
