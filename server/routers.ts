@@ -7,9 +7,9 @@ import * as db from "./db";
 import Stripe from "stripe";
 import { ENV } from "./_core/env";
 
-const stripe = new Stripe(ENV.stripeSecretKey, {
+const stripe = ENV.stripeSecretKey ? new Stripe(ENV.stripeSecretKey, {
   apiVersion: "2025-11-17.clover",
-});
+}) : null;
 
 export const appRouter = router({
   system: systemRouter,
